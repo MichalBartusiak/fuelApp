@@ -31,7 +31,7 @@ const FuelMain = () => {
 				style={button}
 				icon='plus'
 				mode='contained'>
-				Add new fueling
+				Add new fueling!
 			</Button>
 		</SafeAreaView>
 	);
